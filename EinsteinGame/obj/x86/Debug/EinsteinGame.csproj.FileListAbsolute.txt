@@ -1,0 +1,39 @@
+c:\users\aluno\documents\visual studio 2010\Projects\EinsteinGame\EinsteinGame\bin\Debug\EinsteinGame.exe
+c:\users\aluno\documents\visual studio 2010\Projects\EinsteinGame\EinsteinGame\bin\Debug\EinsteinGame.pdb
+c:\users\aluno\documents\visual studio 2010\Projects\EinsteinGame\EinsteinGame\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\aluno\documents\visual studio 2010\Projects\EinsteinGame\EinsteinGame\obj\x86\Debug\EinsteinGame.Form1.resources
+c:\users\aluno\documents\visual studio 2010\Projects\EinsteinGame\EinsteinGame\obj\x86\Debug\EinsteinGame.Properties.Resources.resources
+c:\users\aluno\documents\visual studio 2010\Projects\EinsteinGame\EinsteinGame\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\aluno\documents\visual studio 2010\Projects\EinsteinGame\EinsteinGame\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\aluno\documents\visual studio 2010\Projects\EinsteinGame\EinsteinGame\obj\x86\Debug\EinsteinGame.exe
+c:\users\aluno\documents\visual studio 2010\Projects\EinsteinGame\EinsteinGame\obj\x86\Debug\EinsteinGame.pdb
+c:\users\aluno\documents\visual studio 2010\Projects\EinsteinGame\EinsteinGame\obj\x86\Debug\EinsteinGame.Form2.resources
+C:\Users\Nicholas de Oliveira\Documents\Visual Studio 2017\Projects\EinsteinGame\EinsteinGame\bin\Debug\EinsteinGame.exe
+C:\Users\Nicholas de Oliveira\Documents\Visual Studio 2017\Projects\EinsteinGame\EinsteinGame\bin\Debug\EinsteinGame.pdb
+C:\Users\Nicholas de Oliveira\Documents\Visual Studio 2017\Projects\EinsteinGame\EinsteinGame\obj\x86\Debug\EinsteinGame.csprojResolveAssemblyReference.cache
+C:\Users\Nicholas de Oliveira\Documents\Visual Studio 2017\Projects\EinsteinGame\EinsteinGame\obj\x86\Debug\EinsteinGame.Form1.resources
+C:\Users\Nicholas de Oliveira\Documents\Visual Studio 2017\Projects\EinsteinGame\EinsteinGame\obj\x86\Debug\EinsteinGame.Form2.resources
+C:\Users\Nicholas de Oliveira\Documents\Visual Studio 2017\Projects\EinsteinGame\EinsteinGame\obj\x86\Debug\EinsteinGame.Properties.Resources.resources
+C:\Users\Nicholas de Oliveira\Documents\Visual Studio 2017\Projects\EinsteinGame\EinsteinGame\obj\x86\Debug\EinsteinGame.csproj.GenerateResource.Cache
+C:\Users\Nicholas de Oliveira\Documents\Visual Studio 2017\Projects\EinsteinGame\EinsteinGame\obj\x86\Debug\EinsteinGame.exe
+C:\Users\Nicholas de Oliveira\Documents\Visual Studio 2017\Projects\EinsteinGame\EinsteinGame\obj\x86\Debug\EinsteinGame.pdb
+K:\Arquivos\EinsteinGame\EinsteinGame\obj\x86\Debug\EinsteinGame.exe
+K:\Arquivos\EinsteinGame\EinsteinGame\obj\x86\Debug\EinsteinGame.pdb
+K:\Arquivos\EinsteinGame\EinsteinGame\bin\Debug\EinsteinGame.exe
+K:\Arquivos\EinsteinGame\EinsteinGame\bin\Debug\EinsteinGame.pdb
+K:\Arquivos\EinsteinGame\EinsteinGame\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\Arquivos\EinsteinGame\EinsteinGame\obj\x86\Debug\EinsteinGame.Form1.resources
+K:\Arquivos\EinsteinGame\EinsteinGame\obj\x86\Debug\EinsteinGame.Form2.resources
+K:\Arquivos\EinsteinGame\EinsteinGame\obj\x86\Debug\EinsteinGame.Properties.Resources.resources
+K:\Arquivos\EinsteinGame\EinsteinGame\obj\x86\Debug\GenerateResource.read.1.tlog
+K:\Arquivos\EinsteinGame\EinsteinGame\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Nicholas\Documents\Visual Studio 2017\Projects\EinsteinGame\EinsteinGame\bin\Debug\EinsteinGame.exe
+C:\Users\Nicholas\Documents\Visual Studio 2017\Projects\EinsteinGame\EinsteinGame\bin\Debug\EinsteinGame.pdb
+C:\Users\Nicholas\Documents\Visual Studio 2017\Projects\EinsteinGame\EinsteinGame\obj\x86\Debug\EinsteinGame.csprojAssemblyReference.cache
+C:\Users\Nicholas\Documents\Visual Studio 2017\Projects\EinsteinGame\EinsteinGame\obj\x86\Debug\EinsteinGame.Form1.resources
+C:\Users\Nicholas\Documents\Visual Studio 2017\Projects\EinsteinGame\EinsteinGame\obj\x86\Debug\EinsteinGame.Form2.resources
+C:\Users\Nicholas\Documents\Visual Studio 2017\Projects\EinsteinGame\EinsteinGame\obj\x86\Debug\EinsteinGame.Properties.Resources.resources
+C:\Users\Nicholas\Documents\Visual Studio 2017\Projects\EinsteinGame\EinsteinGame\obj\x86\Debug\EinsteinGame.csproj.GenerateResource.cache
+C:\Users\Nicholas\Documents\Visual Studio 2017\Projects\EinsteinGame\EinsteinGame\obj\x86\Debug\EinsteinGame.csproj.CoreCompileInputs.cache
+C:\Users\Nicholas\Documents\Visual Studio 2017\Projects\EinsteinGame\EinsteinGame\obj\x86\Debug\EinsteinGame.exe
+C:\Users\Nicholas\Documents\Visual Studio 2017\Projects\EinsteinGame\EinsteinGame\obj\x86\Debug\EinsteinGame.pdb
